@@ -2,28 +2,32 @@
 
 ---
 
-### Category Name 1 
-
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### About Me
+Hello and welcome to my Data Analytics Portfolio! My name is [Your Name], and I am a student in a six-month intensive bootcamp, working towards developing core data analytics skills. With a background in biochemistry and physics education, I began my journey into the field of data in October 2022. Based in San Diego, I am passionate about exploring and analyzing data, as well as other activities such as surfing, traveling, and BBQ. In this portfolio, you will find a showcase of my skills and projects, highlighting my journey into the exciting world of data analytics.
 
 ---
 
-### Category Name 2
+### Project Write Ups (coming soon)
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[Wine Group Investment Strategy 2022](/sample_page)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[American Energy Market Regulator 2016-2017 Outage Analysis](/pdf/sample_presentation.pdf)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[San Diego International - Chicago O'Hare Flights Analysis 1997-2007](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
+### Tableau Public Links
+
+- [Wine Group Investment Strategy 2022](https://public.tableau.com/app/profile/anthony.stark3004/viz/AWGInvestmentStrategy-Capstone1/ExecutivePresentation)
+- [American Energy Market Regulator 2016-2017 Outage Analysis](https://public.tableau.com/app/profile/anthony.stark3004/viz/AEMRCaseStudy_16694175595350/AEMRExecutiveSummary)
+- [ChemCorp Customer Growth and Retention Analysis](https://public.tableau.com/app/profile/anthony.stark3004/viz/ChemCorpCaseStudy_16672422049150/ExecutivePresentation)
+
 
 ---
 
