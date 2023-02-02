@@ -3,7 +3,11 @@ logo: "/images/IMG_0891resized.jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Data Analyst | Former STEM Educator
   <br><br>
-  Second description 
+  Skills:
+  + Microsoft Excel
+  + Tableau
+  + SQL
+  + Python (pandas, NumPy, matplotlib, seaborn, statsmodels)
   <br><br>
   <a href="https://www.linkedin.com/in/amstark22/">View My LinkedIn Profile</a> 
   
