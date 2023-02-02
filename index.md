@@ -3,7 +3,7 @@
 ---
 
 ### About Me
-Hello and welcome to my Data Analytics Portfolio! My name is [Your Name], and I am a student in a six-month intensive bootcamp, working towards developing core data analytics skills. With a background in biochemistry and physics education, I began my journey into the field of data in October 2022. Based in San Diego, I am passionate about exploring and analyzing data, as well as other activities such as surfing, traveling, and BBQ. In this portfolio, you will find a showcase of my skills and projects, highlighting my journey into the exciting world of data analytics.
+Hello and welcome to my Data Analytics Portfolio! My name is Anthony Stark, and I am a student in a six-month intensive bootcamp, working towards developing core data analytics skills. With a background in biochemistry and physics education, I began my journey into the field of data in October 2022. Based in San Diego, I am passionate about exploring and analyzing data, as well as other activities such as surfing, traveling, and BBQ. In this portfolio, you will find a showcase of my skills and projects, highlighting my journey into the exciting world of data analytics.
 
 ---
 
