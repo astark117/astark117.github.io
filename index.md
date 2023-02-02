@@ -25,11 +25,10 @@ Hello and welcome to my Data Analytics Portfolio! My name is Anthony Stark, and 
 ### Tableau Public Links
 
 - [Wine Group Investment Strategy 2022](https://public.tableau.com/app/profile/anthony.stark3004/viz/AWGInvestmentStrategy-Capstone1/ExecutivePresentation)
-<img src="images/AWG.png/">
+
 - [American Energy Market Regulator 2016-2017 Outage Analysis](https://public.tableau.com/app/profile/anthony.stark3004/viz/AEMRCaseStudy_16694175595350/AEMRExecutiveSummary)
-<img src="images/AEMR.png/">
+
 - [ChemCorp Customer Growth and Retention Analysis](https://public.tableau.com/app/profile/anthony.stark3004/viz/ChemCorpCaseStudy_16672422049150/ExecutivePresentation)
-<img src="images/ChemCorp.png/">
 
 
 ---
